@@ -7,7 +7,7 @@ public class Main {
         String monster = "\uD83E\uDDDF";
         String castle = "\uD83C\uDFF0";
 
-        int healthPoints = 3;
+        int healthPoints = 10;
         int sizeBoard = 5;
         int personX;
         int personY;
